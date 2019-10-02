@@ -1,0 +1,29 @@
+body {
+	background-color: #f2fbff;
+}
+.block2 {
+   float: right;
+   padding-right: 20px;
+   
+}
+.block {
+	text-align: right;
+	 padding-right: 20px;
+}
+.box {
+	height: 25px;
+	width: 25px;
+	color: black;
+	background-color: #f0382b;
+	text-align: center;
+	border-radius: 15px 15px 15px 15px;
+	text-align: right;
+	margin-top: 14px;
+}
+.top {
+	background-color: white;
+}
+.Google {
+	text-align: center;
+	margin-top: ;
+}
