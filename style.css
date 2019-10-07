@@ -1,29 +1,64 @@
 body {
 	background-color: #f2fbff;
 }
-.block2 {
-   float: right;
-   padding-right: 20px;
-   
-}
 .block {
 	text-align: right;
-	 padding-right: 20px;
-}
-.box {
-	height: 25px;
-	width: 25px;
-	color: black;
-	background-color: #f0382b;
-	text-align: center;
-	border-radius: 15px 15px 15px 15px;
-	text-align: right;
-	margin-top: 14px;
+	margin-right: 20px;
+
+
+	
 }
 .top {
 	background-color: white;
 }
 .Google {
+	margin-left: 530px;
+	margin-top: 160px;
+	width: 450px;
+
+}
+.search-box {
+	width: 500px;
+	margin-left: 510px;
+	height: 40px;
+	border-radius: 250px;
+	font-size: 110%;
+}
+.Button1 {
+	width: 100px;
+	height: 35px;
+	margin-left: 630px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+.Button2 {
+	width: 95px;
+	height: 35px;
+	margin-top: 20px;
+	margin-left: 50px;
+	border-radius: 5px;
+}
+.ga {
 	text-align: center;
-	margin-top: ;
+	font-style: all;
+	margin-top: 20px;
+}
+mark {
+	background-color: white;
+	color: blue;
+}
+.bottem1 {
+	background-color: lightgray;
+	text-align: left;
+	margin-top: 200px;
+	height: 20px;
+
+}
+.bottem2 {
+	background-color: lightgray;
+	text-align: left;
+	height: 20px;
+
+
+
 }
